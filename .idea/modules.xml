@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/day1_LLD/day1_LLD.iml" filepath="$PROJECT_DIR$/day1_LLD/day1_LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2_LLD/day2_LLD.iml" filepath="$PROJECT_DIR$/day2_LLD/day2_LLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/low_level_Design.iml" filepath="$PROJECT_DIR$/.idea/low_level_Design.iml" />
     </modules>
   </component>
