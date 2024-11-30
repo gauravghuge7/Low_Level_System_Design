@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69444368-1a9c-4370-a6cf-e5a45a867417" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/day3_LLD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/src/MultiMediaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/src/decorations/HighQualityMediaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/src/decorations/MediaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/src/medias/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/src/medias/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/src/medias/ImageAdaptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/src/medias/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/src/medias/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_LLD/src/utility/MediaCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3_LLD/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/F data/Language Foundation/Advance_Java_Foundation_JDBC",
     "onboarding.tips.debug.path": "F:/F data/System_Design/low_level_Design/day3_LLD/medias/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -71,7 +59,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="day3_LLD" />
